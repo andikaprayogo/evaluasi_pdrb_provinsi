@@ -1,0 +1,7 @@
+# ========================================
+# Use command below to install the module:
+# pip install -r requirements.txt
+# ========================================
+
+pandas
+openpyxl
